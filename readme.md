@@ -1,2 +1,5 @@
-Link do zad1 https://kacperszymczyk72.github.io/TAF/Zad1/
+#Zadnie TAF
+
+#Zadania
+Zadanie 1 https://kacperszymczyk72.github.io/TAF/Zad1/
 
