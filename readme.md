@@ -1,5 +1,4 @@
-#Zadnie TAF
+# Linki do rozwiązań zadań TAF
 
-#Zadania
-Zadanie 1 https://kacperszymczyk72.github.io/TAF/Zad1/
-
+# Zadanie 1 
+https://kacperszymczyk72.github.io/TAF/Zad1/
